@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-24T10:06:06 IST" name="Default suite" finished-at="2023-04-24T10:07:08 IST" duration-ms="61965">
+    <groups>
+    </groups>
+    <test started-at="2023-04-24T10:06:06 IST" name="Default test" finished-at="2023-04-24T10:07:08 IST" duration-ms="61965">
+      <class name="TestSuite.AllTest">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:TestSuite.AllTest@68878f6d]" started-at="2023-04-24T10:06:04 IST" name="driverSetup" finished-at="2023-04-24T10:06:06 IST" duration-ms="2513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="test()[pri:0, instance:TestSuite.AllTest@68878f6d]" started-at="2023-04-24T10:06:06 IST" name="test" finished-at="2023-04-24T10:07:08 IST" duration-ms="61919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestSuite.AllTest@68878f6d]" started-at="2023-04-24T10:07:08 IST" name="closeBrowser" finished-at="2023-04-24T10:07:10 IST" duration-ms="1657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestSuite.AllTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
